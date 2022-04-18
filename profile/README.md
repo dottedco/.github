@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/dottedco.png" height="105"></div>
+<div align="center"><img src="https://github.com/dottedco/.github/raw/main/profile/assets/dottedco.png" height="105"></div>
 <div align="center"><a href="https://dottedco.github.io/">Our main website</a> — <a href="https://github.com/dottedco">Our organization on GitHub</a></div>
 <hr>
 
@@ -11,18 +11,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition, we are a very collaborative organization and we listen to the users of our products, helping them as we can and trying to include their ideas in our projects, because we love the community.
 <br>
 
-<div align="center"><img src="assets/dottedlvcommunity.png"></div>
+<div align="center"><img src="https://github.com/dottedco/.github/raw/main/profile/assets/dottedcomm.png"></div>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, to show you our quality here I leave you some of our most important projects (in case you want to take a look at them 😉):
 <br>
 <hr>
 <br>
-<div align="center"><a href="https://github.com/dottedco/sarah"><img src="assets/sarah.png"></a> <br> <i>sarah, the discord bot you always wanted to have</i></div>
+<div align="center"><a href="https://github.com/dottedco/sarah"><img src="https://github.com/dottedco/.github/raw/main/profile/assets/sarah.png"></a> <br> <i>sarah, the discord bot you always wanted to have</i></div>
 <br>
 <br>
 <br>
-<div align="center"><a href="https://github.com/dottedco/dirty"><img src="assets/dirty.png"></a> <br> <i>dirty, the python library that makes your life easier</i></div>
+<div align="center"><a href="https://github.com/dottedco/dirty"><img src="https://github.com/dottedco/.github/raw/main/profile/assets/dirty.png"></a> <br> <i>dirty, the python library that makes your life easier</i></div>
 <br>
 <hr>
 <br>
