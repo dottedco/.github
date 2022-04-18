@@ -1,5 +1,5 @@
 <div align="center"><img src="https://github.com/dottedco/.github/raw/main/profile/assets/dottedco.png" height="105"></div>
-<div align="center"><a href="https://dottedco.github.io/">Our main website</a> — <a href="https://github.com/dottedco">Our organization on GitHub</a></div>
+<div align="center"><a href="https://dottedco.github.io/">Our main website</a> — <a href="https://github.com/dottedco">Our organization on GitHub</a> — <a href="https://www.youtube.com/channel/UClC2ctLkes8K4uF15WHE4mQ">Our YouTube channel</a></div>
 <hr>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello average Internet user, you may be wondering right now what the hell is this organization and what we do, although you probably aren't, really. Despite this, it is my duty as a `README.md` file of an organization to tell you everything related to this software organization (although the truth is that it is not that bad).
