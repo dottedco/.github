@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition, we are a very collaborative organization and we listen to the users of our products, helping them as we can and trying to include their ideas in our projects, because we love the community.
 <br>
 
-<div align="center"><img src="https://github.com/dottedco/.github/raw/main/profile/assets/dottedcomm.png"></div>
+<div align="center"><img src="https://github.com/dottedco/.github/raw/main/profile/assets/dottedcomm.png" height="90"></div>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, to show you our quality here I leave you some of our most important projects (in case you want to take a look at them 😉):
