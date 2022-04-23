@@ -27,5 +27,7 @@
 <hr>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is really no money involved in creating these projects, we do them with effort and passion, so we would really appreciate your contribution. Also, if you have any problems (or suggestions) you can always <a href="mailto:dotted.software@gmail.com">send us a message</a>, we will do our best to assist you.
+<br>
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Without further ado, thank you very much for reading and we hope to see you in one of our repositories.
+Without further ado, thank you very much for reading and we hope to see you in one of our repositories.
